@@ -1,4 +1,4 @@
-# APS 360 Final Project
+# Apparelo
 
 ## Social Media Post Abstraction 
 _By :- Danial Khan, Abhi Sharma, Suleiman Najim, Payas Hasteer_
@@ -16,3 +16,5 @@ _**Overview**_: The Model predicts the apparel category the user-inputted pictur
 3. **Test** And with the remaining 20% the best model achieved an accuracy of 94.067%.
 
 **_Future Scope_**: The team aims to train the model to brand differentiate and even follow fashion trends by providing priority to trending apparel clothing.
+
+<img width="169" alt="image" src="https://user-images.githubusercontent.com/83788585/189702044-8a2052aa-2d4c-419e-b2c8-6ee04844a707.png">
